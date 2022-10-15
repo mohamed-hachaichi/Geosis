@@ -15,7 +15,7 @@ LONG_DESCRIPTION = 'A machine learining-based package to preform spatial data an
 setup(
     name="Geosis",
     version=VERSION,
-    author="Mohamed Hachaichi",
+    author="Mohamed HACHACHI",
     author_email="<hachaichi_mohamed@outlook.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",

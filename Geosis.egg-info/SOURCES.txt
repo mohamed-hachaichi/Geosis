@@ -1,0 +1,14 @@
+CHANGELONG.txt
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.py
+Geosis/__init__.py
+Geosis/functions.py
+Geosis.egg-info/PKG-INFO
+Geosis.egg-info/SOURCES.txt
+Geosis.egg-info/dependency_links.txt
+Geosis.egg-info/requires.txt
+Geosis.egg-info/top_level.txt
+data/regions.xlsx
+data/worldcities.csv

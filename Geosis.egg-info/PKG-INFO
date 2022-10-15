@@ -1,3 +1,22 @@
+Metadata-Version: 2.1
+Name: Geosis
+Version: 0.0.1
+Summary: Geographic knowledge production analysis
+Author: Mohamed HACHACHI
+Author-email: <hachaichi_mohamed@outlook.com>
+License: UNKNOWN
+Keywords: python,geography,analysis,knowledge production,camera stream,sockets
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+
+
 <h1 align="center">
   <br>
   <a href="https://github.com/mohamed-hachaichi/Geosis"><img src="https://github.com/mohamed-hachaichi/app/blob/main/Geosis.png" alt="" width="200"></a>
@@ -184,3 +203,4 @@ Project Link: [Geosis](https://github.com/mohamed-hachaichi/Geosis)
 The python package is accessible from PyPI following the link: . Note that the package will be maintained, and new releases will be available in the future expanding its geographical analysis scope and providing much more capabilities and mapping options. Geosis is built on: Pandas, GeoPandas, and NetworkX.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
